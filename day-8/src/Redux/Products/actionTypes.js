@@ -1,0 +1,14 @@
+
+
+export const PROD_REQUEST = "PROD_REQUEST";
+
+export const PROD_FAILURE = "PROD_FAILURE";
+
+export const POST_PROD_SUCCESS = "POST_PROD_SUCCESS";
+
+export const GET_PROD_SUCCESS = "GET_PROD_SUCCESS";
+
+
+export const PATCH_PROD_SUCCESS = "PATCH_PROD_SUCCESS";
+
+export const DELETE_PROD_SUCCESS = "DELETE_PROD_SUCCESS";
